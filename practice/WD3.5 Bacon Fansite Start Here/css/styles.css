@@ -1,0 +1,11 @@
+.bacon {
+    background-color: red;
+}
+
+.gear {
+    background-color: green;
+}
+
+img:hover {
+    background-color:  gold;
+}
